@@ -1,0 +1,6 @@
+{
+  "name": "Builders Build Community Hub",
+  "description": "Central community platform for Builders Build cohorts, assignments, announcements, project submissions, leaderboards, and cohort management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
